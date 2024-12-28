@@ -9,7 +9,7 @@ const Header = () => {
         <Link to="/">Swiggy Clone</Link>
       </div>
       <div className="search-bar">
-        <input type="text" placeholder="Search for restaurants, cuisines..." />
+        <input type="text" placeholder="Search for restaurants, Items, cuisines..." />
       </div>
       <div className="profile">
         <Link to="/cart">Cart</Link>

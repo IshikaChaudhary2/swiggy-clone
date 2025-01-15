@@ -408,273 +408,273 @@ const RestaurantList = () => {
   },   
        {
           id:7,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Chicken Momos',
+          description: 'Juicy dumplings stuffed with minced chicken and aromatic herbs, perfect for a savory snack.',
+          price: 80,
           image: ""
   },   
        {
           id:7,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Chicken Tandoori Momos',
+          description: 'Tandoori-flavored chicken momos, grilled to perfection, offering a smoky taste and served with mint chutney.',
+          price: 250,
           image: ""
   },   
        {
           id:7,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Mutton Momos',
+          description: 'Rich and flavorful mutton-filled dumplings, perfect for meat lovers, served with a side of spicy sauce.',
+          price: 299,
           image: ""
   },   
        {
           id:7,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Precia Chicken Momos',
+          description: 'Premium chicken momos with a rich filling, offering a delightful taste experience, served with a special sauce.',
+          price: 210,
           image: ""
   },   
        {
           id:7,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Cheese Momos',
+          description: 'Cheesy dumplings that melt in your mouth, combining the goodness of cheese with a soft outer layer.',
+          price: 180,
           image: ""
   },   
        {
           id:7,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Schezwan Chicken Momo',
+          description: 'Chicken momos cooked in a spicy Schezwan sauce, offering a fusion of flavors.',
+          price: 170,
           image: ""
   },   
        {
           id:7,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Spicy Veg Momo',
+          description: 'A mix of spicy vegetables wrapped in dough, served with a hot chili sauce for an extra kick.',
+          price: 130,
           image: ""
   },   
        {
           id:7,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Devil Momo',
+          description: 'Known for their intense spiciness, these momos are made with Tibetan herbs and spices, ideal for those who can handle the heat.',
+          price: 299,
           image: ""
   },   
        {
           id:7,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Spicy Paneer Momo',
+          description: 'Stuffed with spicy paneer and herbs, these momos offer a rich and flavorful vegetarian option.',
+          price: 255,
           image: ""
   },   
      
         {
           id:8,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Brownies',
+          description: 'Fudgy or cakey chocolate squares that are rich and decadent, often served warm with a scoop of ice cream.',
+          price: 150,
           image: ""
   },   
         {
           id:8,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Tiramisu ',
+          description: 'A classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese, dusted with cocoa powder.',
+          price: 299,
           image: ""
   },   {
           id:8,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Lemon Tart',
+          description: 'A buttery tart filled with a tangy lemon custard, often topped with a light dusting of powdered sugar.',
+          price: 455,
           image: ""
   },   {
           id:8,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Chocolate Mousse',
+          description: 'A light and airy dessert made with whipped cream and chocolate, creating a rich yet fluffy texture.',
+          price: 600,
           image: ""
   },   {
           id:8,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Sticky Rice with Mango ',
+          description: 'A traditional Thai dessert featuring sweet sticky rice served with ripe mango slices and drizzled with coconut milk.',
+          price: 800,
           image: ""
   },   {
           id:8,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Saffron Ice Cream',
+          description: 'A luxurious ice cream flavored with saffron and cardamom, often garnished with pistachios for added texture.',
+          price: 699,
           image: ""
   },   {
           id:8,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Pavlova',
+          description: 'A meringue-based dessert with a crisp crust and soft, light inside, topped with whipped cream and fresh fruits.',
+          price: 645,
           image: ""
   },   {
           id:8,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Baklava',
+          description: 'A sweet pastry made of layers of filo dough filled with chopped nuts and sweetened with honey or syrup.',
+          price: 745,
           image: ""
   },   {
           id:8,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Kulfi ',
+          description: 'A rich and creamy frozen dessert made from reduced milk, often flavored with cardamom, saffron, or pistachio, and served on a stick.',
+          price: 185,
           image: ""
   },  
         {
           id:8,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Ras Malai',
+          description: 'Soft cheese discs soaked in sweetened, thickened milk, flavored with cardamom and garnished with pistachios.',
+          price: 85,
           image: ""
   }, 
      
         {
           id:9,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Chicken Seekh Kabab',
+          description: 'Spiced minced chicken skewered and grilled, offering a smoky flavor and juicy texture.',
+          price: 250,
           image: ""
   }, 
       {
           id:9,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Mutton Shami Kabab',
+          description: 'A blend of minced mutton and lentils, seasoned with spices, shaped into patties, and shallow-fried for a rich taste.',
+          price: 399,
           image: ""
   }, 
       {
           id:9,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Hara Bhara Kabab',
+          description: 'A vegetarian kabab made from spinach, green peas, and spices, shaped into patties and shallow-fried, offering a healthy option.',
+          price: 250,
           image: ""
   }, {
           id:9,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Keema Kabab',
+          description: 'Minced meat mixed with spices, shaped into patties, and grilled, providing a flavorful and juicy experience.',
+          price: 450,
           image: ""
   }, {
           id:9,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Fish Tikka ',
+          description: 'Marinated fish pieces grilled to perfection, seasoned with spices, and served with a tangy sauce.',
+          price: 350,
           image: ""
   }, {
           id:9,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Malai Tikka',
+          description: 'Creamy marinated chicken pieces grilled to perfection, known for their tender texture and rich flavor.',
+          price: 350,
           image: ""
   }, {
           id:9,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Vegetable Seekh Kabab',
+          description: 'A mix of vegetables and spices, shaped onto skewers and grilled, providing a healthy and flavorful vegetarian option.',
+          price: 250,
           image: ""
   }, {
           id:9,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Prawn Kebab',
+          description: 'Marinated prawns grilled with spices, offering a delicious seafood option with a smoky flavor.',
+          price: 450,
           image: ""
   }, {
           id:9,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Fried Momo',
+          description: 'deep-fried until golden brown, offering a crunchy texture and savory filling.',
+          price: 130,
           image: ""
   }, {
           id:9,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Chocolate Momo ',
+          description: 'a sweet treat filled with melted chocolate, perfect for dessert lovers.',
+          price: 200,
           image: ""
   }, 
 
 {
           id:10,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Sambuca Prawns',
+          description: 'Juicy prawns marinated in sambuca, served with a tangy dip.',
+          price: 395,
           image: ""
   }, 
 
 {
           id:10,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Nachos Chicken',
+          description: 'Crispy nachos topped with seasoned chicken and melted cheese, served with salsa.',
+          price: 210,
           image: ""
   }, 
 
 {
           id:10,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Grilled Sole with Lemon Butter Sauce',
+          description: 'Delicately grilled sole fish drizzled with a rich lemon butter sauce, served with seasonal vegetables.',
+          price: 380,
           image: ""
   }, 
 
 {
           id:10,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Chicken Stroganoff with Herb Chilli Rice',
+          description: 'Tender chicken pieces cooked in a creamy mushroom sauce, served with fragrant herb chili rice.',
+          price: 380,
           image: ""
   }, 
 
 {
           id:10,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Barbecue Chicken Breast ',
+          description: 'Grilled chicken breast glazed with a smoky barbecue sauce, served with a side of coleslaw.',
+          price: 280,
           image: ""
   }, 
 
 {
           id:10,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Chicken Lasagna',
+          description: 'Layers of pasta filled with seasoned chicken, béchamel sauce, and cheese, baked to perfection.',
+          price: 380,
           image: ""
   }, 
 
 {
           id:10,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Cottage Cheese Aglio Olio',
+          description: 'Sautéed cottage cheese tossed in garlic-infused olive oil, served with a sprinkle of herbs.',
+          price: 225,
           image: ""
   }, 
 
 {
           id:10,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Fish N Chips ',
+          description: 'Classic British dish featuring battered fish served with crispy fries and tartar sauce.',
+          price: 150,
           image: ""
   }, 
 
 {
           id:10,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Chicken Madagascar',
+          description: 'Chicken cooked in a spicy and aromatic sauce, served with rice or bread.',
+          price: 280,
           image: ""
   }, 
 
 {
           id:10,
-          name: '',
-          description: '',
-          price: ,
+          name: 'Greek Chicken',
+          description: 'Marinated chicken grilled with Mediterranean spices, served with a side of Greek salad.',
+          price: 280,
           image: ""
       }, 
    ],

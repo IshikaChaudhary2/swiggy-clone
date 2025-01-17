@@ -9,10 +9,7 @@ const RestaurantList = () => {
   useEffect(() => {
    const fetchRestaurants = async () => {
       const data = [
-        {
-       id: 1, 
-      name: 'BURGER PIZZA',
-     image: "https://img.etimg.com/thumb/msid-53174685,width-650,height-488,imgsize-536837,resizemode-75/.jpg" },
+  
      item:[
     {
          id:1,
@@ -42,8 +39,48 @@ const RestaurantList = () => {
           price: 645 ,
           image: "https://breadboozebacon.com/wp-content/uploads/2023/05/BBQ-Chicken-Pizza-SQUARE.jpg"
    },
-       
         {
+          id:1,
+          name: 'Indi Tandoori Paneer Pizza',
+          description: 'Infused with tandoori flavors, this pizza is topped with marinated paneer, onions, and capsicum for a spicy kick.',
+          price: 339,
+          image: "https://www.dominos.co.in/files/items/IndianTandooriPaneer.jpg"
+    },
+        {
+          id:1,
+          name: 'Farmhouse Pizza ',
+          description: 'A hearty pizza with a mix of fresh vegetables and cheese, ideal for a wholesome meal.',
+          price: 299,
+          image: "https://img.restaurantguru.com/w550/h367/rac3-FarmHouse-Pizza-pizza-2021-09-14.jpg" },
+        {
+          id:1,
+          name: 'Cheese Burst Pizza',
+          description: 'A cheesy delight with a burst of cheese in the crust, topped with your choice of toppings.',
+          price: 399,
+          image: "https://assets.faasos.io/ovenstory-react.in/production/chickenCheeseBurstPizza.jpg"
+    },
+        {
+          id:1,
+          name: 'Chicken Pepperoni Cheese Burst Pizza',
+          description: 'A classic American-style pizza topped with spicy pepperoni and extra cheese, perfect for a satisfying meal.',
+          price: 349,
+          image: "https://product-assets.faasos.io/production/product/image_1658348000078_Chicken_Pepperoni_Cheese_Burst_Pizza_.jpg"
+    },
+        {
+          id:1,
+          name: 'Sriracha Bbq Chicken Pizza',
+          description: 'A delicious combination of  bell peppers, onion, and crumbled bacon perfect for those who enjoy a spicy kick.',
+          price: 299,
+          image: "https://i.pinimg.com/originals/38/a2/8f/38a28f18177be0ce7cde298a2a6cf759.jpg"
+    },
+        {
+          id:1,
+          name: 'Peri-Peri Chicken Pizza',
+          description: 'A spicy option with peri-peri marinated chicken, bell peppers, Capsicum, Paneer and a zesty sauce, ideal for those who love heat.',
+          price: 329,
+          image: "https://cdn.grofers.com/assets/search/usecase/banner/peri_peri_chicken_pizza_01.png"
+    },
+          {
           id:2,
           name: 'Macaroni & Cheese Burger',
           description: 'A crispy-fried mac & cheese patty, grilled beef patty, grilled onion, lettuce, chili cheese sauce, and ketchup, served on a corn-dusted bun.',

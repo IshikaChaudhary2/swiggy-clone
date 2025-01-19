@@ -664,7 +664,7 @@ const RestaurantList = () => {
           name: 'Chicken Stroganoff with Herb Chilli Rice',
           description: 'Tender chicken pieces cooked in a creamy mushroom sauce, served with fragrant herb chili rice.',
           price: 380,
-          image: ""
+          image: "https://easybrazilianfood.com/wp-content/uploads/2022/05/Brazilian-Chicken-Stroganoff-POST-angle-e1651693987904.jpg"
   }, 
 
 {
@@ -672,7 +672,7 @@ const RestaurantList = () => {
           name: 'Barbecue Chicken Breast ',
           description: 'Grilled chicken breast glazed with a smoky barbecue sauce, served with a side of coleslaw.',
           price: 280,
-          image: ""
+          image: "https://www.theseasonedmom.com/wp-content/uploads/2024/06/grilled-bbq-chicken-breast-4-1024x1536.jpg"
   }, 
 
 {
@@ -680,7 +680,7 @@ const RestaurantList = () => {
           name: 'Chicken Lasagna',
           description: 'Layers of pasta filled with seasoned chicken, béchamel sauce, and cheese, baked to perfection.',
           price: 380,
-          image: ""
+          image: "https://www.homecookingadventure.com/wp-content/uploads/2022/01/chicken-lasagna-main-image.jpg"
   }, 
 
 {
@@ -688,7 +688,7 @@ const RestaurantList = () => {
           name: 'Cottage Cheese Aglio Olio',
           description: 'Sautéed cottage cheese tossed in garlic-infused olive oil, served with a sprinkle of herbs.',
           price: 225,
-          image: ""
+          image: "https://goop-img.com/wp-content/uploads/2016/05/1603_goop_0469-768x585.jpg"
   }, 
 
 {
@@ -696,7 +696,7 @@ const RestaurantList = () => {
           name: 'Fish N Chips ',
           description: 'Classic British dish featuring battered fish served with crispy fries and tartar sauce.',
           price: 150,
-          image: ""
+          image: "http://www.salvagente.co.za/wp-content/uploads/2015/09/fish-chips-by-diane-july-2011.jpg"
   }, 
 
 {
@@ -704,7 +704,7 @@ const RestaurantList = () => {
           name: 'Chicken Madagascar',
           description: 'Chicken cooked in a spicy and aromatic sauce, served with rice or bread.',
           price: 280,
-          image: ""
+          image: "https://img.sndimg.com/food/image/upload/w_555%2Ch_416%2Cc_fit%2Cfl_progressive%2Cq_95/v1/img/recipes/30/94/31/picEKCJfC.jpg"
   }, 
 
 {
@@ -712,7 +712,7 @@ const RestaurantList = () => {
           name: 'Greek Chicken',
           description: 'Marinated chicken grilled with Mediterranean spices, served with a side of Greek salad.',
           price: 280,
-          image: ""
+          image: "https://realgreekrecipes.com/wp-content/uploads/2016/12/Greek-Roast-Chicken-Recipe-600x794.jpg"
       }, 
    ],
         

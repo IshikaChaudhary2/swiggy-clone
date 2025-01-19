@@ -13,62 +13,62 @@ const RestaurantPage = () => {
       {
         id: 1,
         name: 'Pizza',
-        price: 200-800,
-        imageUrl:
+       price: 200-800,
+        imageUrl: "https://images3.alphacoders.com/104/thumb-1920-1041781.jpg"
       },
       {
         id: 2,
         name: 'Burger',
         price: 250-450,
-        imageUrl:
+        imageUrl:"https://insanelygoodrecipes.com/wp-content/uploads/2020/02/Burger-and-Fries.jpg"
           },
      {
         id: 3,
         name: 'Ice Cream',
         price: 50-649,
-        imageUrl: 
+        imageUrl: "https://cdn.wallpapersafari.com/63/99/JnAPqz.jpg"
      },
       {
         id: 4,
-        name: 'Burger',
-        price: 120,
-        imageUrl:
+        name: 'Chinese',
+        price: 450-800,
+        imageUrl:"https://blogs-images.forbes.com/nickpassmore/files/2015/07/chinese.jpg"
           },
       {
         id: 5,
-        name: 'Burger',
-        price: 120,
-        imageUrl: 
+        name: 'Biriyani',
+        price: 170-499,
+        imageUrl: "https://sulthansbiriyani.in/wp-content/uploads/2021/01/Sulthans-special-Biryani.jpg"
       },
       {
         id: 6,
-        name: 'Burger',
-        price: 120,
-        imageUrl:
+        name: 'Cold Drinks',
+        price: 40-100,
+        imageUrl:"https://5.imimg.com/data5/OK/LC/RZ/SELLER-49520187/fanta-cold-drink-500x500.jpg"
           },
       {
         id: 7,
-        name: 'Burger',
-        price: 120,
-        imageUrl: 
+        name: 'Momos',
+        price: 50-299,
+        imageUrl: "https://www.rasoirani.com/wp-content/uploads/2020/10/veg-paneer-momos.jpg"
         },
      {
         id: 8,
-        name: 'Burger',
-        price: 120,
-        imageUrl:
+        name: 'Desserts',
+        price: 80-899,
+        imageUrl:"https://images6.alphacoders.com/451/451075.jpg"
           },
       {
         id: 9,
-        name: 'Burger',
-         price: 120,
-        imageUrl:
+        name: 'kababs',
+         price: 149-400,
+        imageUrl:"https://flawlessfood.co.uk/wp-content/uploads/2021/03/Tandoori-Chicken-Tikka-Kebab-433.jpg"
           },
       {
         id: 10,
-        name: 'Burger',
-        price: 120,
-        imageUrl: 
+        name: 'Contininental Food',
+        price: 79-650,
+        imageUrl: "https://images.summitmedia-digital.com/sap/images/2017/09/11/8.beefalofriedchickenscopypot-brand-articleimage640x360.jpg"
       },
     ],
   };
